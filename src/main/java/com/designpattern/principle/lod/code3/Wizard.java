@@ -3,10 +3,13 @@ package com.designpattern.principle.lod.code3;
 import java.util.Random;
 
 /**
+ * 将不必暴露的方法设置为私有.
  * Created by liyimeng on 2016/12/7.
  */
 public class Wizard {
     private Random rand = new Random(System.currentTimeMillis());
+
+
 
     private int first() {
         System.out.println("执行第一步.....");
