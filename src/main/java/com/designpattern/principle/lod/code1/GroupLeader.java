@@ -1,4 +1,4 @@
-package com.designpattern.principle.lod.code;
+package com.designpattern.principle.lod.code1;
 
 import java.util.List;
 
