@@ -1,4 +1,4 @@
-package com.designpattern.pattern.factorymethod;
+package com.designpattern.pattern.factorymethod.code1;
 
 /**
  * 抽象人类创建工厂

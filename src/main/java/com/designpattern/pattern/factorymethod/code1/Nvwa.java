@@ -1,4 +1,4 @@
-package com.designpattern.pattern.factorymethod;
+package com.designpattern.pattern.factorymethod.code1;
 
 /**
  * 女娲造人(Client)
